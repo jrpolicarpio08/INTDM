@@ -6,7 +6,7 @@ html {
 #showcase{
   position: relative;
   min-height: 80vh;
-  font-family: 'BadaBoom BB';
+  font-family: 'BadaBoom BB', sans-serif;
   background-size: cover;
   color: white;
 }
@@ -200,7 +200,7 @@ body{
   background-repeat: no-repeat;
   text-align: center;
   color: white;
-  font-family: 'BadaBoom BB';
+  font-family: 'BadaBoom BB', sans-serif;
 }
 .hrl{
   background-color: red;
@@ -306,7 +306,7 @@ background:#1c1c1c;
 }
 .nav-link{
   color: white;
-  font-family: "BadaBoom BB";
+  font-family: "BadaBoom BB", sans-serif;
   font-size: 20px;
 }
 .test .navbar-nav .nav-link{

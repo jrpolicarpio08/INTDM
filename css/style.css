@@ -1,10 +1,12 @@
+@import url('https://fonts.cdnfonts.com/css/badaboom-bb');
+
 html {
   scroll-behavior: smooth;
 }
 #showcase{
   position: relative;
   min-height: 80vh;
-  font-family: 'badaboom bb';
+  font-family: 'BadaBoom BB';
   background-size: cover;
   color: white;
 }
@@ -198,7 +200,7 @@ body{
   background-repeat: no-repeat;
   text-align: center;
   color: white;
-  font-family: 'badaboom bb';
+  font-family: 'BadaBoom BB';
 }
 .hrl{
   background-color: red;
@@ -304,7 +306,7 @@ background:#1c1c1c;
 }
 .nav-link{
   color: white;
-  font-family: "badaboom bb";
+  font-family: "BadaBoom BB";
   font-size: 20px;
 }
 .test .navbar-nav .nav-link{
